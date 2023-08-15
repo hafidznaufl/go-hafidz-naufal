@@ -1,3 +1,4 @@
 Template
 go.mod
+go.work
 .gitignore
