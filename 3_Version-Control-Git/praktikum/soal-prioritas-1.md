@@ -11,4 +11,4 @@
    ![No.2](/3_Version-Control-Git/screenshots/2.png "No.2")
    <br>
    dengan isi tiap foldernya
-   ![No.3](/3_Version-Control-Git/screenshots/2.png "No.3")
+   ![No.3](/3_Version-Control-Git/screenshots/3.png "No.3")
