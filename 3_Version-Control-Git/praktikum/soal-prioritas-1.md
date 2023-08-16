@@ -1,5 +1,12 @@
 # Soal Prioritas 1
 
-buatlah sebuah repository github yang sesuai dengan namaKelas_namaKalian.
+1. buatlah sebuah repository github yang sesuai dengan namaKelas_namaKalian.
 **Jawab :**
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![No.1](/3_Version-Control-Git/screenshots/1.png "No.1")
+
+2. buatlah folder yang berurutan dan diberi nama sesuai dengan nama soal yang kalian kerjakan.
+**Jawab :**
+![No.2](/3_Version-Control-Git/screenshots/2.png "No.2")
+
+dengan isi tiap foldernya
+![No.3](/3_Version-Control-Git/screenshots/2.png "No.3")
