@@ -6,7 +6,7 @@
 <br>
 
 2. buatlah folder yang berurutan dan diberi nama sesuai dengan nama soal yang kalian kerjakan.<br>
-**Jawab :**
+**Jawab :**<br>
 ![No.2](/3_Version-Control-Git/screenshots/2.png "No.2")
 dengan isi tiap foldernya
 ![No.3](/3_Version-Control-Git/screenshots/2.png "No.3")
