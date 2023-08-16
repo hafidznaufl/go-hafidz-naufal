@@ -1,0 +1,1 @@
+Hari ini pada tanggal 15 Agustus 2023, saya belajar mandiri terkait section Basic Programming Go dengan materi Basic Programming Go dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
