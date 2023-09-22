@@ -1,0 +1,2 @@
+Hari ini pada tanggal 18 September 2023, saya belajar mandiri terkait section Intro Echo Go dengan materi Intro Echo Go dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Intro Echo Go bersama mentor

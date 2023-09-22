@@ -1,0 +1,2 @@
+Hari ini pada tanggal 23 Agustus 2023, saya belajar mandiri terkait section Data Structure (Array, Slice, Map), Function dengan materi Data Structure (Array, Slice, Map), Function dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Data Structure (Array, Slice, Map), Function bersama mentor

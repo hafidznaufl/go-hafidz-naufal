@@ -1,0 +1,2 @@
+Hari ini pada tanggal 25 Agustus 2023, saya belajar mandiri terkait section Time & Space tring, Advance Function, Pointer, Struct, Method, Interface, Package & Error Handling dengan materi Time & Space tring, Advance Function, Pointer, Struct, Method, Interface, Package & Error Handling dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Time & Space tring, Advance Function, Pointer, Struct, Method, Interface, Package & Error Handling bersama mentor

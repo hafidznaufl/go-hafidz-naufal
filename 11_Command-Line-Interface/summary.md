@@ -1,0 +1,2 @@
+Hari ini pada tanggal 11 September 2023, saya belajar mandiri terkait section Command Line Interface dengan materi Command Line Interface dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Command Line Interface bersama mentor

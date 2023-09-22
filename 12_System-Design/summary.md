@@ -1,0 +1,2 @@
+Hari ini pada tanggal 12 September 2023, saya belajar mandiri terkait section System Design dengan materi System Design dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi System Design bersama mentor

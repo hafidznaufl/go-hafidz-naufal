@@ -1,0 +1,2 @@
+Hari ini pada tanggal 5 September 2023, saya belajar mandiri terkait section Join, Union & Aggregate dengan materi Join, Union & Aggregate dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Recursive, Number Theory, Sorting &  Searching bersama mentor

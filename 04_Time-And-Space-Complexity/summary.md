@@ -1,0 +1,2 @@
+Hari ini pada tanggal 21 Agustus 2023, saya belajar mandiri terkait section Time & Space Complexity dengan materi Time & Space Complexity dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum. 
+Kemudian mengikuti live mentoring dengan materi Time & Space Complexity bersama mentor

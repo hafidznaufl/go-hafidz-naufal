@@ -1,0 +1,2 @@
+Hari ini pada tanggal 5 September 2023, saya belajar mandiri terkait section Database Schema, DDL, DML dengan materi Database Schema, DDL, DML dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Recursive, Number Theory, Sorting &  Searching bersama mentor

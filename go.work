@@ -1,0 +1,7 @@
+go 1.21.0
+
+use (
+	./14_Intro-Echo-Golang/praktikum
+	./15_ORM-Code-Structure/praktikum/soal-prioritas-1
+	./15_ORM-Code-Structure/praktikum/soal-prioritas-2
+)
