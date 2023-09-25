@@ -6,3 +6,7 @@
 [submodule "15_ORM-Code-Structure/praktikum/soal-prioritas-2"]
     path = 15_ORM-Code-Structure/praktikum/soal-prioritas-2
     url = https://github.com/hafidznaufl/go_hafidz-naufal.git/15_ORM-Code-Structure/praktikum
+
+[submodule "15_ORM-Code-Structure/praktikum/soal-eksplorasi"]
+    path = 15_ORM-Code-Structure/praktikum/soal-eksplorasi
+    url = https://github.com/hafidznaufl/go_hafidz-naufal.git/15_ORM-Code-Structure/praktikum
