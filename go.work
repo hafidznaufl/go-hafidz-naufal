@@ -5,4 +5,5 @@ use (
 	./15_ORM-Code-Structure/praktikum/soal-eksplorasi
 	./15_ORM-Code-Structure/praktikum/soal-prioritas-1
 	./15_ORM-Code-Structure/praktikum/soal-prioritas-2
+	./16_Middleware/praktikum
 )
