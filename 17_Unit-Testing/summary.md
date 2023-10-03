@@ -1,0 +1,2 @@
+Hari ini pada tanggal 26, 27 September 2023, saya belajar mandiri terkait section Unit Testing dengan materi Unit Testing dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Unit Testing bersama mentor

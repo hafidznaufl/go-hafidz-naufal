@@ -6,4 +6,6 @@ use (
 	./15_ORM-Code-Structure/praktikum/soal-prioritas-1
 	./15_ORM-Code-Structure/praktikum/soal-prioritas-2
 	./16_Middleware/praktikum
+	./17_Unit-Testing/praktikum/calculator-app
+	./17_Unit-Testing/praktikum/rest-api
 )

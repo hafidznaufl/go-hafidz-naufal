@@ -1,0 +1,2 @@
+Hari ini pada tanggal 25 September 2023, saya belajar mandiri terkait section Middleware dengan materi Middleware dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Middleware bersama mentor
