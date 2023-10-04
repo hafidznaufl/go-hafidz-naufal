@@ -1,11 +1,11 @@
 go 1.21.0
 
 use (
-	./14_Intro-Echo-Golang/praktikum
-	./15_ORM-Code-Structure/praktikum/soal-eksplorasi
-	./15_ORM-Code-Structure/praktikum/soal-prioritas-1
-	./15_ORM-Code-Structure/praktikum/soal-prioritas-2
-	./16_Middleware/praktikum
-	./17_Unit-Testing/praktikum/calculator-app
-	./17_Unit-Testing/praktikum/rest-api
+	./16_Intro-Echo-Golang/praktikum
+	./17_ORM-Code-Structure/praktikum/soal-eksplorasi
+	./17_ORM-Code-Structure/praktikum/soal-prioritas-1
+	./17_ORM-Code-Structure/praktikum/soal-prioritas-2
+	./18_Middleware/praktikum
+	./19_Unit-Testing/praktikum/calculator-app
+	./19_Unit-Testing/praktikum/rest-api
 )
