@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"app/helper"
-	"app/model/web"
-	"app/service"
+	"clean_architecture/helper"
+	"clean_architecture/model/web"
+	"clean_architecture/service"
 	"strings"
 
 	"github.com/labstack/echo/v4"

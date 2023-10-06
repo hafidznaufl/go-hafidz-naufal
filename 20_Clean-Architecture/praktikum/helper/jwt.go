@@ -2,7 +2,7 @@ package helper
 
 import (
 	"os"
-	"app/model/web"
+	"clean_architecture/model/web"
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"

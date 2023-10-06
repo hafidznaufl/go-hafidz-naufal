@@ -2,7 +2,7 @@ package routes
 
 import (
 	"os"
-	"app/controller"
+	"clean_architecture/controller"
 
 	echojwt "github.com/labstack/echo-jwt/v4"
 	"github.com/labstack/echo/v4"

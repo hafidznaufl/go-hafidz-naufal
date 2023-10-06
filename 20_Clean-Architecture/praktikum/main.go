@@ -1,18 +1,18 @@
 package main
 
 import (
-	"simple_clean_code/config"
-	"simple_clean_code/controller"
-	"simple_clean_code/model/domain"
-	"simple_clean_code/repository"
-	"simple_clean_code/routes"
-	"simple_clean_code/service"
+	"clean_architecture/config"
+	"clean_architecture/controller"
+	"clean_architecture/model/domain"
+	"clean_architecture/repository"
+	"clean_architecture/routes"
+	"clean_architecture/service"
 
 	"github.com/labstack/echo/v4"
 )
 
 func main() {
-	app := echo.New()
+	clean_architecture := echo.New()
 
 	db, err := config.InitConfig()
 	if err != nil {
@@ -25,8 +25,8 @@ func main() {
 	userServcice := service.NewUserService(userRepository)
 	userController := controller.NewUserController(userServcice)
 
-	routes.NewUserRoutes(app, userController)
+	routes.NewUserRoutes(clean_architecture, userController)
 
 
-	app.Logger.Fatal(app.Start(":8080"))
+	clean_architecture.Logger.Fatal(clean_architecture.Start(":8080"))
 }

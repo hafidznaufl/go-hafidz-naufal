@@ -2,7 +2,7 @@ package helper
 
 import (
 	"net/http"
-	"app/model/web"
+	"clean_architecture/model/web"
 
 	"github.com/labstack/echo/v4"
 )

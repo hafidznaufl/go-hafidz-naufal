@@ -1,0 +1,2 @@
+Hari ini pada tanggal 28, 29 September 2023, saya belajar mandiri terkait section Clean Architecture dengan materi Clean Architecture dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Clean Architecture bersama mentor

@@ -1,0 +1,2 @@
+Hari ini pada tanggal 2, 3 OKtober 2023, saya belajar mandiri terkait section Docker dengan materi Docker dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Docker bersama mentor
