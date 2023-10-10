@@ -1,8 +1,8 @@
 package helper
 
 import (
-	"clean_architecture/model/domain"
-	"clean_architecture/model/web"
+	"app/model/domain"
+	"app/model/web"
 )
 
 func UserDomainToUserCreateResponse(user *domain.User) web.UserCreateResponse {

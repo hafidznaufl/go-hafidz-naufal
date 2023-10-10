@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"clean_architecture/model/domain"
+	"app/model/domain"
 
 	"gorm.io/gorm"
 )

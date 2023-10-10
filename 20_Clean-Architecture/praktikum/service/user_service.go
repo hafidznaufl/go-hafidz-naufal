@@ -2,10 +2,10 @@ package service
 
 import (
 	"fmt"
-	"clean_architecture/helper"
-	"clean_architecture/model/domain"
-	"clean_architecture/model/web"
-	"clean_architecture/repository"
+	"app/helper"
+	"app/model/domain"
+	"app/model/web"
+	"app/repository"
 )
 
 type UserService interface {

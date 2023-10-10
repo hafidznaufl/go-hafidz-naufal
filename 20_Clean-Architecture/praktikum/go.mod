@@ -1,4 +1,4 @@
-module clean_architecture
+module app
 
 go 1.20
 
