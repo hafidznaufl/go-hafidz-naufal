@@ -1,0 +1,2 @@
+Hari ini pada tanggal 4, 5 Oktober 2023, saya belajar mandiri terkait section Compute Services dengan materi Compute Services dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Compute Services bersama mentor
