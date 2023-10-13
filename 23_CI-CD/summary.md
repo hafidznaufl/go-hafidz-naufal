@@ -1,0 +1,2 @@
+Hari ini pada tanggal 6 Oktober 2023, saya belajar mandiri terkait section CI/CD dengan materi CI/CD dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi CI/CD bersama mentor

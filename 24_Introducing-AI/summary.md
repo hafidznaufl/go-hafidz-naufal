@@ -1,0 +1,2 @@
+Hari ini pada tanggal 9 Oktober 2023, saya belajar mandiri terkait section Introducing AI dengan materi Introducing AI dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Introducing AI bersama mentor

@@ -1,0 +1,16 @@
+## Introducing AI & Open AI
+
+#### Prompt Ai : 
+Apa itu Rest API ?
+
+#### Jawaban : 
+REST API (Representational State Transfer Application Programming Interface) adalah sebuah protokol yang digunakan untuk mengirimkan dan menerima data antara sistem perangkat lunak yang berbeda. REST API menggunakan metode HTTP (GET, POST, PUT, DELETE) untuk mengakses dan memanipulasi data yang disimpan pada server.
+
+API sendiri adalah sekumpulan aturan dan protokol yang memungkinkan berbagai aplikasi untuk saling berinteraksi dan berkomunikasi satu sama lain. API bisa digunakan untuk berbagai keperluan, seperti mengambil data dari suatu sumber, mengirim data ke suatu sistem, atau melaksanakan operasi tertentu pada suatu sistem.
+
+REST API dirancang agar serba ringan, sederhana, dan mudah dimengerti, sehingga dapat digunakan oleh berbagai jenis sistem dan platform. REST API menggunakan representasi data dalam format umum seperti XML atau JSON yang memungkinkan aplikasi berbasis bahasa pemrograman yang berbeda untuk saling berkomunikasi dengan mudah.
+
+Dalam konteks pengembangan perangkat lunak, REST API sering digunakan untuk membang
+
+#### Screenshots : 
+   ![Merancang Database](</24_Introducing-AI/screenshots/ai.png> "Merancang Database")
