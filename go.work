@@ -9,4 +9,5 @@ use (
 	./19_Unit-Testing/praktikum/calculator-app
 	./19_Unit-Testing/praktikum/rest-api
 	./23_CI-CD/praktikum
+	./26_AI-Golang/praktikum
 )

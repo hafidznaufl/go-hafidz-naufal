@@ -1,0 +1,2 @@
+Hari ini pada tanggal 11 dan 12 Oktober 2023, saya belajar mandiri terkait section Alghoritm AI dengan materi Alghoritm AI dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Alghoritm AI bersama mentor

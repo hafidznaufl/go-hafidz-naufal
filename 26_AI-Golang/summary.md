@@ -1,0 +1,2 @@
+Hari ini pada tanggal 13 Oktober 2023, saya belajar mandiri terkait section Implementing AI in GOlang dengan materi Implementing AI in GOlang dan telah mengerjakan tugas bagian pilihan ganda, summary, praktikum.
+Kemudian mengikuti live mentoring dengan materi Implementing AI in GOlang bersama mentor
